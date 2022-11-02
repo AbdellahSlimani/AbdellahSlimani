@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="V4M3bvpiD1TGgS1Zj2GiWT7GR8lq2agzZAyCkJn_qjg" />
 [![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)](https://abdellahslimani.com)
 <h1 align="center">Hi 👋, I'm Abdellah Slimani</h1>
 <h3 align="center">A passionate frontend developer from Morocco 🇲🇦</h3>
