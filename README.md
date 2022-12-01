@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **php**
 
 - 🤝 I’m looking for help with [Deliveroo clone](https://github.com/AbdellahSlimani/deliveroo-clone)
 
