@@ -15,6 +15,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdellahslimani&label=Profile%20views&color=0e75b6&style=flat" alt="abdellahslimani" /> </p>
 <img align="right" alt="a man coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTc3MGU3YTU0MmNmOTcwNGI1YzZmYzc5ZjExMDU2ZDJkODViZGE5NiZjdD1z/AfpXE9om1TtkcjpKhI/giphy.gif"/>
 
+<br>
 
 - 🔭 I’m currently working on **An Invoice App**
 
