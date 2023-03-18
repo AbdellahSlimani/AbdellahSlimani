@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/abdellahslimani">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="www.abdellahslimani.com">
+  <a href="https://www.abdellahslimani.com">
     <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=Product-Hunt&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://www.twitter.com/abdalahslimani">
