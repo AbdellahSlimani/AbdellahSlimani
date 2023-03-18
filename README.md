@@ -1,14 +1,25 @@
 [![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)](https://abdellahslimani.com)
 <h1 align="center">Hi 👋, I'm Abdellah Slimani</h1>
 <h3 align="center">A passionate frontend developer from Morocco 🇲🇦</h3>
-<img align="right" alt="a man coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<div id="badges" align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<img align="right" alt="a man coding" width="400" src="[https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gi](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTc3MGU3YTU0MmNmOTcwNGI1YzZmYzc5ZjExMDU2ZDJkODViZGE5NiZjdD1z/AfpXE9om1TtkcjpKhI/giphy.gif)f"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdellahslimani&label=Profile%20views&color=0e75b6&style=flat" alt="abdellahslimani" /> </p>
 
-<p align="left"> <a href="https://twitter.com/abdalahslimani" target="blank"><img src="https://img.shields.io/twitter/follow/abdalahslimani?logo=twitter&style=for-the-badge" alt="abdalahslimani" /></a> </p>
+<p align="center"> <a href="https://twitter.com/abdalahslimani" target="blank"><img src="https://img.shields.io/twitter/follow/abdalahslimani?logo=twitter&style=for-the-badge" alt="abdalahslimani" /></a> </p>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **An Invoice App**
 
-- 🌱 I’m currently learning **php**
+- 🌱 I’m currently learning **SQL**
 
 - 🤝 I’m looking for help with [Deliveroo clone](https://github.com/AbdellahSlimani/deliveroo-clone)
 
