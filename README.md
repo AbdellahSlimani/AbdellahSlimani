@@ -12,10 +12,10 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img align="right" alt="a man coding" width="400" src="[https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gi](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTc3MGU3YTU0MmNmOTcwNGI1YzZmYzc5ZjExMDU2ZDJkODViZGE5NiZjdD1z/AfpXE9om1TtkcjpKhI/giphy.gif)f"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdellahslimani&label=Profile%20views&color=0e75b6&style=flat" alt="abdellahslimani" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdellahslimani&label=Profile%20views&color=0e75b6&style=flat" alt="abdellahslimani" /> </p>
+<img align="right" alt="a man coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTc3MGU3YTU0MmNmOTcwNGI1YzZmYzc5ZjExMDU2ZDJkODViZGE5NiZjdD1z/AfpXE9om1TtkcjpKhI/giphy.gif"/>
 
-<p align="center"> <a href="https://twitter.com/abdalahslimani" target="blank"><img src="https://img.shields.io/twitter/follow/abdalahslimani?logo=twitter&style=for-the-badge" alt="abdalahslimani" /></a> </p>
+<!-- <p align="center"> <a href="https://twitter.com/abdalahslimani" target="blank"><img src="https://img.shields.io/twitter/follow/abdalahslimani?logo=twitter&style=for-the-badge" alt="abdalahslimani" /></a> </p> -->
 
 - 🔭 I’m currently working on **An Invoice App**
 
