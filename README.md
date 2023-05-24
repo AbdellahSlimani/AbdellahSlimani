@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on **An Invoice App**
 
-- 🌱 I’m currently learning **Angula**
+- 🌱 I’m currently learning **Angular**
 
 - 🤝 I’m looking for help with [Deliveroo clone](https://github.com/AbdellahSlimani/deliveroo-clone)
 
