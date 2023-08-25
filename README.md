@@ -50,10 +50,9 @@
 <br>
 <br>
 
-<div styly="display: flex; justify-centent: space-between; align-items:center">
-  <p style="display: inline"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdellahslimani&" alt="abdellahslimani" /></p>
-  <p style="display: inline"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdellahslimani&show_icons=true&locale=en&layout=compact" alt="abdellahslimani" />    </p>
-</div>
+<p ><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdellahslimani&" alt="abdellahslimani" /></p>
+<p ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdellahslimani&show_icons=true&locale=en&layout=compact" alt="abdellahslimani" /></p>
+
 
 
 
