@@ -53,8 +53,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdellahslimani&" alt="abdellahslimani" /></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=abdellahslimani&show_icons=true&locale=en" alt="abdellahslimani" /></p>
-
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdellahslimani&show_icons=true&locale=en&layout=compact" alt="abdellahslimani" /></p>
 
 
