@@ -21,15 +21,13 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 🤝 I’m looking for help with [Deliveroo clone](https://github.com/AbdellahSlimani/deliveroo-clone)
+- 🤝 I’m looking for help with -
 
 - 👨‍💻 All of my projects are available at [abdellahslimani.com](abdellahslimani.com)
 
 - 💬 Ask me about **React, Javascript, CSS,Tailwind css, Nextjs**
 
 - 📫 How to reach me **slimaniabdellah.as@gmail.com**
-
-- 📄 Know about my experiences [abdellahslimani.com/CV](abdellahslimani.com/CV)
 
 - ⚡ Fun fact **I really like learn new languages.**
 
