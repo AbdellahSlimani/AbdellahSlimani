@@ -23,7 +23,7 @@
 
 - 🤝 I’m looking for help with -
 
-- 👨‍💻 All of my projects are available at [abdellahslimani.com](abdellahslimani.com)
+- 👨‍💻 All of my projects are available at [abdellahslimani.com](https://www.abdellahslimani.com)
 
 - 💬 Ask me about **React, Javascript, CSS,Tailwind css, Nextjs**
 
