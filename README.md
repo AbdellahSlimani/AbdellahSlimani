@@ -17,7 +17,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **An Invoice App**
+- 🔭 I’m currently working on **An Invoicing Web App**
 
 - 🌱 I’m currently learning **Angular**
 
