@@ -8,7 +8,7 @@
   <a href="https://www.twitter.com/abdalahslimani">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.abdellahslimani.com">
+  <a href="https://www.sytelix.com">
     <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=Product-Hunt&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
